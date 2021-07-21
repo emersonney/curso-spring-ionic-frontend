@@ -52,4 +52,8 @@ loadImageUrls(){
   }
 }
 
+showDetail(){
+  this.navCtrl.push('ProdutoDetailPage');
+}
+
 }
